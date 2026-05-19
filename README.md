@@ -3,9 +3,9 @@
 Este repositorio contiene el modelado de primer orden, la estructura jerárquica y los cálculos de ingeniería para el diseño y optimización de un vehículo a control remoto (RC). El proyecto integra el diseño mecánico con simulaciones avanzadas, enfocándose en maximizar la relación potencia/masa, garantizando la integridad estructural y la estabilidad dinámica bajo condiciones críticas de operación.
 
 ## Integrantes y Contacto
-* **Integrante 1:** [Catalina Grandón] (cagrandon2022@udec.cl)
-* **Integrante 2:** [Joaquín Otárola] (jootarola2023@udec.cl)
-* **Integrante 3:** José Miguel Venegas Alvarado (jvenegas2023@udec.cl)
+* **Integrante 1:** Catalina Grandón (cagrandon2022@udec.cl)
+* **Integrante 2:** Joaquín Otárola (jootarola2023@udec.cl)
+* **Integrante 3:** José Venegas (jvenegas2023@udec.cl)
 
 *Departamento de Ingeniería Mecánica, Facultad de Ingeniería, Universidad de Concepción.*
 
