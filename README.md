@@ -2,7 +2,7 @@
 
 Este repositorio contiene el modelado de primer orden, la estructura jerárquica y los cálculos de ingeniería para el diseño y optimización de un vehículo a control remoto (RC). El proyecto integra el diseño mecánico con simulaciones avanzadas, enfocándose en maximizar la relación potencia/masa, garantizando la integridad estructural y la estabilidad dinámica bajo condiciones críticas de operación.
 
-## 🚀 Integrantes y Contacto
+## Integrantes y Contacto
 * **Integrante 1:** José Miguel Venegas Alvarado (jvenegas2023@udec.cl)
 * **Integrante 2:** [Nombre Compañero 1] ([Correo 1]@udec.cl)
 * **Integrante 3:** [Nombre Compañero 2] ([Correo 2]@udec.cl)
@@ -11,12 +11,12 @@ Este repositorio contiene el modelado de primer orden, la estructura jerárquica
 
 ---
 
-## 🎯 1. Misión General del Sistema (Nivel 0)
+## Misión General del Sistema (Nivel 0)
 La función principal del sistema es **transportar la masa propia del vehículo RC** (chasis, electrónica, motor y batería) **más una carga útil determinada (TBD kg), de manera terrestre por una pista, optimizando la eficiencia estructural y la relación potencia/masa**. El objetivo de este modelo es validar que el diseño soporte las exigencias mecánicas del torque del motor y las cargas de inercia, alcanzando la velocidad máxima operacional de diseño de $7.6 \text{ m/s}$.
 
 ---
 
-## 📐 2. Descomposición Jerárquica (Heurística $7 \pm 2$)
+## Descomposición Jerárquica (Heurística $7 \pm 2$)
 Para gestionar la complejidad del vehículo de manera eficiente, el sistema se descompone en **5 subsistemas principales**:
 
 1. **Subsistema Estructural y Chasis:** Chasis principal optimizado e impreso en filamento PLA, encargado de soportar estructuralmente el torque del motor y alojar los componentes.
@@ -27,7 +27,7 @@ Para gestionar la complejidad del vehículo de manera eficiente, el sistema se d
 
 ---
 
-## 📊 3. Modelo Input-Process-Output (IPO)
+## Modelo Input-Process-Output (IPO)
 El flujo matemático y lógico de los cálculos de primer orden sigue la estructura IPO detallada a continuación:
 
 * **Inputs (Entradas):**
@@ -47,7 +47,7 @@ El flujo matemático y lógico de los cálculos de primer orden sigue la estruct
 
 ---
 
-## 🛠️ Estructura del Repositorio
+## Estructura del Repositorio
 * `/images`: Carpeta que contiene los diagramas y esquemas del proyecto.
 * `Diseño_Vehiculo_RC.ipynb`: Jupyter Notebook principal con el código ejecutable y ecuaciones detalladas.
 * `diagrama_logica.vsdx`: Archivo fuente editable en Microsoft Visio con el diagrama de flujo del modelo.
