@@ -7,7 +7,7 @@ Este repositorio contiene el modelado de primer orden, la estructura jerárquica
 * **Integrante 2:** Joaquín Otárola (jootarola2023@udec.cl)
 * **Integrante 3:** José Venegas (jvenegas2023@udec.cl)
 
-*Departamento de Ingeniería Mecánica, Facultad de Ingeniería, Universidad de Concepción.*
+*Ingeniería Civil Aeroespacial, Facultad de Ingeniería, Universidad de Concepción.*
 
 ---
 
